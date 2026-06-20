@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "lst_f464bc",
+    "title": "Sprout starter kit",
+    "priceCents": 1500,
+    "currency": "usd",
+    "status": "active"
+  }
+]
