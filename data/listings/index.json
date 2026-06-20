@@ -5,5 +5,12 @@
     "priceCents": 1500,
     "currency": "usd",
     "status": "active"
+  },
+  {
+    "id": "lst_e2fbe7",
+    "title": "Trowel set",
+    "priceCents": 2200,
+    "currency": "usd",
+    "status": "active"
   }
 ]
