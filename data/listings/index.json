@@ -1269,7 +1269,7 @@
     "priceCents": 2500,
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/407eb1e825e3c119e6e4c759b975a08011f5e7d5/original.jpeg",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq7151149b1d572b3e",
