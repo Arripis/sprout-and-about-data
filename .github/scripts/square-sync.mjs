@@ -9,7 +9,7 @@ import { fileURLToPath } from 'node:url';
 
 const DEFAULT_API_VERSION = '2026-05-20';
 const DEFAULT_DATA_DIR = 'data/listings';
-const DEFAULT_SELLER = 'Sprout & About';
+const DEFAULT_SELLER = 'Square';
 const DEFAULT_SOLD_STATUS = 'sold';
 const VALID_LISTING_ID = /^lst_[a-z0-9]+$/;
 

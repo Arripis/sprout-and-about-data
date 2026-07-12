@@ -32,9 +32,9 @@ jobs:
           SQUARE_ACCESS_TOKEN: ${{ secrets.SQUARE_ACCESS_TOKEN }}
           SQUARE_LOCATION_ID: ${{ secrets.SQUARE_LOCATION_ID }}
           DATA_DIR: data/listings
-          SQUARE_SELLER_NAME: Sprout & About
-          SQUARE_REQUIRE_IMAGE: 'true'
-          SQUARE_HIDE_UNMANAGED: 'true'
+          SQUARE_SELLER_NAME: ${{ vars.SQUARE_SELLER_NAME || 'Square' }}
+          SQUARE_REQUIRE_IMAGE: ${{ vars.SQUARE_REQUIRE_IMAGE || 'false' }}
+          SQUARE_HIDE_UNMANAGED: ${{ vars.SQUARE_HIDE_UNMANAGED || 'false' }}
         run: node .github/scripts/square-sync.mjs
 
       - name: Commit changes
