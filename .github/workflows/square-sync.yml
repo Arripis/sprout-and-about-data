@@ -1,0 +1,53 @@
+# Square catalog/inventory -> storefront data. Stripe checkout is intentionally unchanged.
+# Install this workflow and square-sync.mjs in the shop's DATA repository.
+name: square-sync
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: square-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Sync catalog and stock from Square
+        env:
+          SQUARE_ACCESS_TOKEN: ${{ secrets.SQUARE_ACCESS_TOKEN }}
+          SQUARE_LOCATION_ID: ${{ secrets.SQUARE_LOCATION_ID }}
+          DATA_DIR: data/listings
+          SQUARE_SELLER_NAME: Sprout & About
+          SQUARE_REQUIRE_IMAGE: 'true'
+          SQUARE_HIDE_UNMANAGED: 'true'
+        run: node .github/scripts/square-sync.mjs
+
+      - name: Commit changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "no changes"; exit 0; fi
+          git config user.name "square-sync[bot]"
+          git config user.email "square-sync@users.noreply.github.com"
+          git add data/listings
+          git commit -m "chore(square): sync catalog and stock [skip ci]"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:data; then exit 0; fi
+            echo "push rejected (attempt $attempt); rebasing on latest data"
+            git fetch origin data
+            git rebase origin/data || { git rebase --abort; exit 1; }
+          done
+          echo "could not push after retries"; exit 1
