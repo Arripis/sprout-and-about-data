@@ -112,6 +112,11 @@ export function buildSquareListings({
       .filter((object) => object.type === 'IMAGE' && object.image_data?.url)
       .map((object) => [object.id, object.image_data.url]),
   );
+  const categoryNameById = new Map(
+    objects
+      .filter((object) => object.type === 'CATEGORY' && object.category_data?.name)
+      .map((object) => [object.id, String(object.category_data.name).trim()]),
+  );
   const listings = [];
 
   for (const item of objects.filter((object) => object.type === 'ITEM')) {
@@ -123,6 +128,8 @@ export function buildSquareListings({
         isPresentAtLocation(variation, locationId) &&
         variation.item_variation_data?.sellable !== false,
     );
+    const categoryId = itemData.categories?.[0]?.id || itemData.category_id;
+    const category = categoryId ? categoryNameById.get(categoryId) : undefined;
 
     for (const variation of variations) {
       const variationData = variation.item_variation_data || {};
@@ -157,6 +164,7 @@ export function buildSquareListings({
         seller,
         createdAt: existing?.createdAt || item.updated_at || new Date().toISOString(),
         status,
+        ...(category ? { category } : {}),
         ...(tracksInventory ? { quantity } : {}),
         squareId: variation.id,
         squareItemId: item.id,
@@ -187,7 +195,7 @@ async function fetchCatalog(square) {
   const objects = [];
   let cursor;
   do {
-    const query = new URLSearchParams({ types: 'ITEM,IMAGE' });
+    const query = new URLSearchParams({ types: 'ITEM,IMAGE,CATEGORY' });
     if (cursor) query.set('cursor', cursor);
     const response = await square(`/v2/catalog/list?${query}`);
     objects.push(...(response.objects || []));
@@ -302,6 +310,8 @@ export async function main() {
       priceCents: listing.priceCents,
       currency: listing.currency,
       ...(listing.images?.[0] ? { image: listing.images[0] } : {}),
+      ...(listing.category ? { category: listing.category } : {}),
+      ...(typeof listing.quantity === 'number' ? { quantity: listing.quantity } : {}),
       status: listing.status,
     }))
     .sort((a, b) => {
