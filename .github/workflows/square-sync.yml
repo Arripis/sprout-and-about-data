@@ -34,6 +34,7 @@ jobs:
           DATA_DIR: data/listings
           SQUARE_SELLER_NAME: ${{ vars.SQUARE_SELLER_NAME || 'Square' }}
           SQUARE_REQUIRE_IMAGE: ${{ vars.SQUARE_REQUIRE_IMAGE || 'false' }}
+          SQUARE_REQUIRE_TRACKED_INVENTORY: ${{ vars.SQUARE_REQUIRE_TRACKED_INVENTORY || 'false' }}
           SQUARE_HIDE_UNMANAGED: ${{ vars.SQUARE_HIDE_UNMANAGED || 'false' }}
         run: node .github/scripts/square-sync.mjs
 

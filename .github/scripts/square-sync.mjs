@@ -105,6 +105,7 @@ export function buildSquareListings({
   seller = DEFAULT_SELLER,
   soldOutStatus = DEFAULT_SOLD_STATUS,
   requireImage = false,
+  requireTrackedInventory = false,
 }) {
   const imageUrlById = new Map(
     objects
@@ -127,6 +128,8 @@ export function buildSquareListings({
       const variationData = variation.item_variation_data || {};
       const price = variationPrice(variationData, locationId);
       if (!variation.id || !price) continue;
+      const tracksInventory = variationData.track_inventory === true;
+      if (requireTrackedInventory && !tracksInventory) continue;
 
       const imageIds = [
         ...(variationData.image_ids || []),
@@ -136,7 +139,6 @@ export function buildSquareListings({
       if (requireImage && images.length === 0) continue;
 
       const existing = existingBySquareId.get(variation.id);
-      const tracksInventory = variationData.track_inventory === true;
       const quantity = tracksInventory
         ? Number(quantityByVariationId.get(variation.id) ?? 0)
         : undefined;
@@ -241,6 +243,7 @@ export async function main() {
   const seller = process.env.SQUARE_SELLER_NAME || DEFAULT_SELLER;
   const soldOutStatus = process.env.SOLD_OUT_STATUS || DEFAULT_SOLD_STATUS;
   const requireImage = envBool('SQUARE_REQUIRE_IMAGE');
+  const requireTrackedInventory = envBool('SQUARE_REQUIRE_TRACKED_INVENTORY');
   const hideUnmanaged = envBool('SQUARE_HIDE_UNMANAGED');
   const dryRun = envBool('DRY_RUN');
   const square = squareClient({ token, base, version });
@@ -264,6 +267,7 @@ export async function main() {
     seller,
     soldOutStatus,
     requireImage,
+    requireTrackedInventory,
   });
   const importedSquareIds = new Set(imported.map((listing) => listing.squareId));
   const allById = new Map(rows.map(({ listing }) => [listing.id, listing]));
