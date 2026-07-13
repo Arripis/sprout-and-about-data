@@ -83,10 +83,19 @@ function variationPrice(variationData, locationId) {
   );
   const money = override?.price_money || variationData.price_money;
   const amount = Number(money?.amount);
-  if (!Number.isSafeInteger(amount) || amount <= 0) return null;
+  if (!Number.isSafeInteger(amount) || amount <= 0 || amount > 100_000_00) return null;
   const currency = String(money.currency || '').toLowerCase();
   if (!/^[a-z]{3}$/.test(currency)) return null;
   return { amount, currency };
+}
+
+function publicImageUrl(value) {
+  try {
+    const url = new URL(String(value || ''));
+    return url.protocol === 'https:' && url.href.length <= 2048 ? url.href : null;
+  } catch {
+    return null;
+  }
 }
 
 function variationTitle(itemName, variationName, variationCount) {
@@ -110,12 +119,13 @@ export function buildSquareListings({
   const imageUrlById = new Map(
     objects
       .filter((object) => object.type === 'IMAGE' && object.image_data?.url)
-      .map((object) => [object.id, object.image_data.url]),
+      .map((object) => [object.id, publicImageUrl(object.image_data.url)])
+      .filter(([, url]) => url),
   );
   const categoryNameById = new Map(
     objects
       .filter((object) => object.type === 'CATEGORY' && object.category_data?.name)
-      .map((object) => [object.id, String(object.category_data.name).trim()]),
+      .map((object) => [object.id, String(object.category_data.name).trim().slice(0, 120)]),
   );
   const listings = [];
 
@@ -146,9 +156,12 @@ export function buildSquareListings({
       if (requireImage && images.length === 0) continue;
 
       const existing = existingBySquareId.get(variation.id);
-      const quantity = tracksInventory
-        ? Number(quantityByVariationId.get(variation.id) ?? 0)
-        : undefined;
+      const rawQuantity = Number(quantityByVariationId.get(variation.id) ?? 0);
+      const quantity = tracksInventory && Number.isFinite(rawQuantity)
+        ? Math.max(0, rawQuantity)
+        : tracksInventory
+          ? 0
+          : undefined;
       const status = tracksInventory && quantity <= 0 ? soldOutStatus : 'active';
       const id = existing?.id && VALID_LISTING_ID.test(existing.id)
         ? existing.id
@@ -161,7 +174,7 @@ export function buildSquareListings({
         priceCents: price.amount,
         currency: price.currency,
         images,
-        seller,
+        seller: String(seller).trim().slice(0, 64) || DEFAULT_SELLER,
         createdAt: existing?.createdAt || item.updated_at || new Date().toISOString(),
         status,
         ...(category ? { category } : {}),
