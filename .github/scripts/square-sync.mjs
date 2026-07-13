@@ -255,6 +255,25 @@ function writeListing(path, listing, dryRun) {
   return true;
 }
 
+export function buildListingIndex(listings) {
+  return [...listings]
+    .map((listing) => ({
+      id: listing.id,
+      title: listing.title,
+      priceCents: listing.priceCents,
+      currency: listing.currency,
+      ...(listing.images?.[0] ? { image: listing.images[0] } : {}),
+      ...(listing.category ? { category: listing.category } : {}),
+      ...(typeof listing.quantity === 'number' ? { quantity: listing.quantity } : {}),
+      ...(listing.squareItemId ? { squareItemId: listing.squareItemId } : {}),
+      status: listing.status,
+    }))
+    .sort((a, b) => {
+      const byTitle = a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
+      return byTitle || a.id.localeCompare(b.id);
+    });
+}
+
 export async function main() {
   const token = requiredEnv('SQUARE_ACCESS_TOKEN');
   const locationId = requiredEnv('SQUARE_LOCATION_ID');
@@ -316,21 +335,7 @@ export async function main() {
     }
   }
 
-  const index = [...allById.values()]
-    .map((listing) => ({
-      id: listing.id,
-      title: listing.title,
-      priceCents: listing.priceCents,
-      currency: listing.currency,
-      ...(listing.images?.[0] ? { image: listing.images[0] } : {}),
-      ...(listing.category ? { category: listing.category } : {}),
-      ...(typeof listing.quantity === 'number' ? { quantity: listing.quantity } : {}),
-      status: listing.status,
-    }))
-    .sort((a, b) => {
-      const byTitle = a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
-      return byTitle || a.id.localeCompare(b.id);
-    });
+  const index = buildListingIndex(allById.values());
   const indexPath = join(dataDir, 'index.json');
   const indexChanged = writeListing(indexPath, index, dryRun);
   if (indexChanged) changed++;
