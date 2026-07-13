@@ -356,8 +356,8 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/9b7f8fdb77150c77935ead304b1dce8c6f52d826/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 1,
-    "status": "active"
+    "quantity": 0,
+    "status": "sold"
   },
   {
     "id": "lst_sqac27cdbd65772fbc",
