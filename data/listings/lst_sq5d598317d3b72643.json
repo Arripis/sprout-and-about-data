@@ -1,0 +1,17 @@
+{
+  "id": "lst_sq5d598317d3b72643",
+  "title": "Test Item",
+  "description": "this is a test item",
+  "priceCents": 1,
+  "currency": "gbp",
+  "images": [
+    "https://items-images-production.s3.us-west-2.amazonaws.com/files/207379f5f084ebd152fc5605573242396a1bcb94/original.png"
+  ],
+  "seller": "Sprout & About",
+  "createdAt": "2026-07-13T14:04:28.914Z",
+  "status": "active",
+  "category": "Plug Plants",
+  "quantity": 10,
+  "squareId": "BLVFKQ6EBK4SUL5SBJSO5NSG",
+  "squareItemId": "WYZID33MX3726AKMUXF3FM2C"
+}
