@@ -1304,9 +1304,9 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/2bdf4295370f03c9c386a7fadca769a6e7ed1949/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 1,
+    "quantity": 0,
     "squareItemId": "3H2CQPKQIEEK3W7KLK4QFRO5",
-    "status": "active"
+    "status": "sold"
   },
   {
     "id": "lst_sq0f56ab3aca103fc8",
@@ -2156,9 +2156,9 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/a94cdacbcf351d91186fc166d905946798dce975/original.png",
     "category": "Bioactive Custodians/Springtails",
-    "quantity": 4,
+    "quantity": 0,
     "squareItemId": "QHR4IXUCJJCZLUOCNV5LH6NU",
-    "status": "active"
+    "status": "sold"
   },
   {
     "id": "lst_e2fbe7",
