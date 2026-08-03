@@ -643,6 +643,7 @@
     "priceCents": 699,
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/1dedfc7f13a7dce499b2cf054e9e2d544043e586/original.jpeg",
+    "category": "Plug Plants",
     "quantity": 3,
     "squareItemId": "6UJVEBSDVBXDLPSTTT6ZQP5P",
     "status": "active"
@@ -2132,6 +2133,7 @@
     "priceCents": 699,
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/62d7f4b5c935ff70d3ced6db91b08160d7359b96/original.jpeg",
+    "category": "Plug Plants",
     "quantity": 1,
     "squareItemId": "QYSBEPUGTPDXUZB2USWB6ZNR",
     "status": "active"
