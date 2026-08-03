@@ -638,6 +638,16 @@
     "status": "sold"
   },
   {
+    "id": "lst_sq83e665a418730ee0",
+    "title": "Coleus Flamingo - 2x Mini Plug Plants - Vibrant Pink Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/1dedfc7f13a7dce499b2cf054e9e2d544043e586/original.jpeg",
+    "quantity": 3,
+    "squareItemId": "6UJVEBSDVBXDLPSTTT6ZQP5P",
+    "status": "active"
+  },
+  {
     "id": "lst_sq0459ef758b34df7f",
     "title": "Coleus Kong Rose - 1x Mini Plug Plant - Easy Care Houseplant Unusual Variety",
     "priceCents": 699,
@@ -2115,6 +2125,16 @@
     "quantity": 0,
     "squareItemId": "GL25NJQ5CDH2SVCR74OVEXCU",
     "status": "sold"
+  },
+  {
+    "id": "lst_sq00d6e4a5376d7003",
+    "title": "Tradescantia Pallidia - 2x Mini Plug Plants - Vibrant Purple Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/62d7f4b5c935ff70d3ced6db91b08160d7359b96/original.jpeg",
+    "quantity": 1,
+    "squareItemId": "QYSBEPUGTPDXUZB2USWB6ZNR",
+    "status": "active"
   },
   {
     "id": "lst_sq3c3daf5e1fdae5a8",
