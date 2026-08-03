@@ -13,6 +13,13 @@ const DEFAULT_SELLER = 'Square';
 const DEFAULT_SOLD_STATUS = 'sold';
 const VALID_LISTING_ID = /^lst_[a-z0-9]+$/;
 
+const CATEGORY_RULES = [
+  { category: 'Plug Plants', pattern: /\b(?:mini\s+)?plug\s+plants?\b/i },
+  { category: 'Plant Food/Supplements', pattern: /\b(?:plant\s+food|fertili[sz]er|supplements?|nutrients?)\b/i },
+  { category: 'Bioactive Custodians/Springtails', pattern: /\b(?:springtails?|bioactive\s+custodians?)\b/i },
+  { category: 'Roman Coins', pattern: /\broman\s+coins?\b/i },
+];
+
 function requiredEnv(name) {
   const value = process.env[name];
   if (!value) throw new Error(`missing required env: ${name}`);
@@ -187,6 +194,29 @@ export function buildSquareListings({
   return listings;
 }
 
+function allowedCategoryMap(categories) {
+  return new Map(
+    [...categories]
+      .map((category) => String(category || '').trim())
+      .filter(Boolean)
+      .map((category) => [category.toLocaleLowerCase('en'), category]),
+  );
+}
+
+/** Apply conservative, free category rules only when the matching category exists in Square. */
+export function applyDeterministicCategories(listings, categories) {
+  const allowed = allowedCategoryMap(categories);
+  return listings.map((listing) => {
+    if (listing.category) return listing;
+    const haystack = `${listing.title || ''}\n${listing.description || ''}`;
+    for (const rule of CATEGORY_RULES) {
+      const category = allowed.get(rule.category.toLocaleLowerCase('en'));
+      if (category && rule.pattern.test(haystack)) return { ...listing, category };
+    }
+    return listing;
+  });
+}
+
 function loadListings(dataDir) {
   if (!existsSync(dataDir)) throw new Error(`data dir not found: ${dataDir}`);
   const rows = [];
@@ -299,7 +329,10 @@ export async function main() {
     .map((variation) => variation.id)
     .filter(Boolean);
   const quantityByVariationId = await fetchInventory(square, variationIds, locationId);
-  const imported = buildSquareListings({
+  const categoryNames = objects
+    .filter((object) => object.type === 'CATEGORY' && object.category_data?.name)
+    .map((object) => object.category_data.name);
+  let imported = buildSquareListings({
     objects,
     quantityByVariationId,
     locationId,
@@ -309,6 +342,7 @@ export async function main() {
     requireImage,
     requireTrackedInventory,
   });
+  imported = applyDeterministicCategories(imported, categoryNames);
   const importedSquareIds = new Set(imported.map((listing) => listing.squareId));
   const allById = new Map(rows.map(({ listing }) => [listing.id, listing]));
   let changed = 0;
