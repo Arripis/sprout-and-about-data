@@ -296,6 +296,7 @@ export function buildListingIndex(listings) {
       ...(listing.category ? { category: listing.category } : {}),
       ...(typeof listing.quantity === 'number' ? { quantity: listing.quantity } : {}),
       ...(listing.squareItemId ? { squareItemId: listing.squareItemId } : {}),
+      createdAt: listing.createdAt,
       status: listing.status,
     }))
     .sort((a, b) => {
