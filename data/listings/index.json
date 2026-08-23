@@ -714,10 +714,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/eeb8ff098a2b45aa0a44561e2b3be8d7d81d6ab1/original.png",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 5,
     "squareItemId": "WT6YD5K2OCORJ67DQ6WLMBJA",
     "createdAt": "2026-05-04T18:44:19.55Z",
-    "status": "sold"
+    "status": "active"
   },
   {
     "id": "lst_sqfd2d1e5553fe2a0a",
@@ -729,7 +729,7 @@
     "quantity": 5,
     "squareItemId": "BP3R3RPSKRID2JUSPZSL733L",
     "createdAt": "2026-06-17T19:24:51.694Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq80ebe6acebcf64b7",
@@ -1293,7 +1293,7 @@
     "quantity": 2,
     "squareItemId": "OOE2AMXP56YNS62R3TM4HUDV",
     "createdAt": "2026-04-26T18:26:50.55Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq66a1617aa4ad9fdb",
@@ -1497,7 +1497,7 @@
     "quantity": 7,
     "squareItemId": "PNOSYISFKKVOEYNKBIAFKD6V",
     "createdAt": "2026-04-26T18:26:45.774Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqbc633b4b0ab312bd",
@@ -1509,7 +1509,7 @@
     "quantity": 6,
     "squareItemId": "PNOSYISFKKVOEYNKBIAFKD6V",
     "createdAt": "2026-04-26T18:26:45.774Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqf87b9837f1457403",
@@ -1593,7 +1593,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq947bebb634fc930b",
@@ -1605,7 +1605,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq34deda15abf26dfa",
@@ -1617,7 +1617,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqdf3c82627186ce6c",
@@ -1629,7 +1629,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqf484f4e27b800102",
@@ -1641,7 +1641,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqca13c01feee28a13",
@@ -1653,7 +1653,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqd950d2ed3f7288fd",
@@ -1665,7 +1665,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq97dfbf8ad53a0eae",
@@ -1677,7 +1677,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq14e062ffadb9d8e1",
@@ -1689,7 +1689,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq3eb00caa3efc0e82",
@@ -1701,7 +1701,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq2f1e8d36c3508527",
@@ -1713,7 +1713,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqf1f33ff55d0e6654",
@@ -1725,7 +1725,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq06ee353372b3894f",
@@ -1737,7 +1737,7 @@
     "quantity": 3,
     "squareItemId": "NO7AELGPTNSZJZLU5K6MGVR3",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq524a25bd936cc530",
@@ -1773,7 +1773,7 @@
     "quantity": 1,
     "squareItemId": "LAFAKY7IO7BJOYYYBT77HI5R",
     "createdAt": "2026-06-30T23:58:54.153Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqf8ab03df745456f9",
@@ -1782,7 +1782,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/4a3c272afa6e86e8405f1422d09346d29baedcc5/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 2,
+    "quantity": 1,
     "squareItemId": "JECAZ6HY27UOFIW52G3J54PD",
     "createdAt": "2026-06-02T08:56:34.691Z",
     "status": "active"
@@ -1975,7 +1975,7 @@
     "quantity": 1,
     "squareItemId": "2KALLA3RP6ONNYHVGNVC62SX",
     "createdAt": "2026-06-24T10:18:35.564Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sqc88d0ba10cd4e55c",
@@ -2016,7 +2016,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/e1a7dd974dc456fd02de11d9690475d75f055baf/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 2,
+    "quantity": 1,
     "squareItemId": "NMTQ6V2UI7IDQD35YJSTOLS7",
     "createdAt": "2026-07-04T16:49:29.706Z",
     "status": "active"
@@ -2028,7 +2028,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/3cbaa34698e5774373d86309f64eb14b654afa02/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 2,
+    "quantity": 1,
     "squareItemId": "7QGOAKNF6GFBDLWGLP6BXRSF",
     "createdAt": "2026-07-04T16:49:16.757Z",
     "status": "active"
@@ -2103,7 +2103,7 @@
     "quantity": 0,
     "squareItemId": "RHHGUWT577N65VOGN2QNCARN",
     "createdAt": "2026-06-16T22:13:24.189Z",
-    "status": "sold"
+    "status": "hidden"
   },
   {
     "id": "lst_sqd44f81256336471d",
@@ -2115,7 +2115,7 @@
     "quantity": 10,
     "squareItemId": "RHHGUWT577N65VOGN2QNCARN",
     "createdAt": "2026-06-16T22:13:24.189Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq048a3c62b1e48ced",
@@ -2127,7 +2127,7 @@
     "quantity": 10,
     "squareItemId": "RHHGUWT577N65VOGN2QNCARN",
     "createdAt": "2026-06-16T22:13:24.189Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq84694e0eee746f8c",
@@ -2307,7 +2307,7 @@
     "quantity": 4,
     "squareItemId": "C5A7JU5MTAO2LIP6H7EMPW4W",
     "createdAt": "2026-07-04T17:05:04.121Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq46596b78a4979190",
@@ -2391,7 +2391,7 @@
     "quantity": 2,
     "squareItemId": "VM4GC55GYOB2COHIJ3ZA6ON4",
     "createdAt": "2026-08-05T14:57:25.523Z",
-    "status": "active"
+    "status": "hidden"
   },
   {
     "id": "lst_sq384a5a661cc871f0",
