@@ -2,6 +2,8 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended"],
   "dependencyDashboard": true,
+  "dependencyDashboardOSVVulnerabilitySummary": "unresolved",
+  "osvVulnerabilityAlerts": true,
   "labels": ["dependencies"],
   "semanticCommits": "enabled",
   "prHourlyLimit": 2,
@@ -10,8 +12,8 @@
   "rebaseWhen": "behind-base-branch",
   "packageRules": [
     {
-      "description": "Automerge non-breaking updates after repository checks pass",
-      "matchUpdateTypes": ["patch", "pin", "digest"],
+      "description": "Automerge every verified dependency update after repository checks pass",
+      "matchUpdateTypes": ["major", "minor", "patch", "pin", "pinDigest", "digest", "lockFileMaintenance", "rollback", "bump", "replacement"],
       "addLabels": ["renovate-automerge"],
       "automerge": true,
       "automergeType": "pr",
@@ -19,8 +21,10 @@
       "ignoreTests": false
     },
     {
-      "description": "Keep minor and major updates for manual review",
-      "matchUpdateTypes": ["minor", "major"],
+      "description": "Keep only major stateful datastore upgrades behind the critical-change gate",
+      "matchPackageNames": ["postgres", "mysql", "mariadb", "mongo", "mongodb", "redis"],
+      "matchUpdateTypes": ["major", "replacement"],
+      "addLabels": ["renovate-critical"],
       "automerge": false
     }
   ]
