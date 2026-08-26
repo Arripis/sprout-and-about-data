@@ -24,7 +24,7 @@ jobs:
           node-version: 22
       - uses: actions/setup-python@v6
         with:
-          python-version: '3.13'
+          python-version: '3.14'
           cache: pip
           cache-dependency-path: .github/scripts/requirements-openrouter.txt
       - name: Install Python dependencies
