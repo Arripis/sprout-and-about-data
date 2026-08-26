@@ -21,6 +21,12 @@
       "ignoreTests": false
     },
     {
+      "description": "Mark runtime and LTS-line moves for post-deploy smoke validation and rollback",
+      "matchManagers": ["dockerfile", "docker-compose", "github-actions"],
+      "matchUpdateTypes": ["major", "replacement"],
+      "addLabels": ["renovate-runtime"]
+    },
+    {
       "description": "Keep only major stateful datastore upgrades behind the critical-change gate",
       "matchPackageNames": ["postgres", "mysql", "mariadb", "mongo", "mongodb", "redis"],
       "matchUpdateTypes": ["major", "replacement"],
