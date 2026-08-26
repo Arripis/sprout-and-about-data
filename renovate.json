@@ -27,10 +27,10 @@
       "addLabels": ["renovate-runtime"]
     },
     {
-      "description": "Keep only major stateful datastore upgrades behind the critical-change gate",
+      "description": "Require AI reversibility assessment for stateful datastore line moves",
       "matchPackageNames": ["postgres", "mysql", "mariadb", "mongo", "mongodb", "redis"],
       "matchUpdateTypes": ["major", "replacement"],
-      "addLabels": ["renovate-critical"],
+      "addLabels": ["renovate-risk-assessment"],
       "automerge": false
     }
   ]
