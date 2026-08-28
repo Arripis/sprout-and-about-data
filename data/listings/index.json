@@ -702,10 +702,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/1dedfc7f13a7dce499b2cf054e9e2d544043e586/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 1,
+    "quantity": 0,
     "squareItemId": "6UJVEBSDVBXDLPSTTT6ZQP5P",
     "createdAt": "2026-08-03T20:47:16.325Z",
-    "status": "active"
+    "status": "sold"
   },
   {
     "id": "lst_sq0459ef758b34df7f",
@@ -1470,7 +1470,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/02768a1c902d46b0ecb478c0ee4fb48edaff02c7/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 2,
+    "quantity": 1,
     "squareItemId": "UOGIUXPAEOM7AEJY3DZOB6GU",
     "createdAt": "2026-07-02T19:20:01.536Z",
     "status": "active"
