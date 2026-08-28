@@ -12,6 +12,11 @@
   "rebaseWhen": "behind-base-branch",
   "packageRules": [
     {
+      "description": "Keep OpenAI on the latest Instructor-compatible major",
+      "matchPackageNames": ["openai"],
+      "allowedVersions": "<3.0.0"
+    },
+    {
       "description": "Automerge every verified dependency update after repository checks pass",
       "matchUpdateTypes": ["major", "minor", "patch", "pin", "pinDigest", "digest", "lockFileMaintenance", "rollback", "bump", "replacement"],
       "addLabels": ["renovate-automerge"],
