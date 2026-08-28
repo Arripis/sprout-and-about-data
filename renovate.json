@@ -6,15 +6,21 @@
   "osvVulnerabilityAlerts": true,
   "labels": ["dependencies"],
   "semanticCommits": "enabled",
-  "prHourlyLimit": 2,
-  "prConcurrentLimit": 3,
-  "branchConcurrentLimit": 3,
+  "prHourlyLimit": 1,
+  "prConcurrentLimit": 1,
+  "branchConcurrentLimit": 1,
   "rebaseWhen": "behind-base-branch",
   "packageRules": [
     {
       "description": "Keep OpenAI on the latest Instructor-compatible major",
       "matchPackageNames": ["openai"],
       "allowedVersions": "<3.0.0"
+    },
+    {
+      "description": "Update Instructor and its OpenAI client as one compatibility-tested unit",
+      "matchPackageNames": ["instructor", "openai"],
+      "groupName": "Instructor OpenAI stack",
+      "groupSlug": "instructor-openai-stack"
     },
     {
       "description": "Automerge every verified dependency update after repository checks pass",
