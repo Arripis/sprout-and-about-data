@@ -366,10 +366,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/ee7e4501af03e6b50b92bb8389daaefdb8028876/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 3,
+    "quantity": 0,
     "squareItemId": "CAH3EKMR2MTIEUCJB6RH7O2F",
     "createdAt": "2026-05-22T15:17:27.821Z",
-    "status": "active"
+    "status": "sold"
   },
   {
     "id": "lst_sq33d183f244089a85",
@@ -730,6 +730,18 @@
     "squareItemId": "BP3R3RPSKRID2JUSPZSL733L",
     "createdAt": "2026-06-17T19:24:51.694Z",
     "status": "hidden"
+  },
+  {
+    "id": "lst_sqc533b5f8f21a2ef7",
+    "title": "Coleus Velvet - 2x Mini Plug Plants - Vibrant Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/5b309f45cbe3d9ae6d419cd1813bb0687dc0b9a6/original.png",
+    "category": "Plug Plants",
+    "quantity": 3,
+    "squareItemId": "6R7DZ65CJ34WKZZND5QSGZII",
+    "createdAt": "2026-09-27T15:10:32.177Z",
+    "status": "active"
   },
   {
     "id": "lst_sq80ebe6acebcf64b7",
@@ -1984,7 +1996,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/9e04d9920c6645e1934732c3f2b77ceff9fd5e89/original.png",
     "category": "Plug Plants",
-    "quantity": 7,
+    "quantity": 6,
     "squareItemId": "BYF5PXRZ6N7IDVMONXG2VYUT",
     "createdAt": "2026-04-26T18:26:49.172Z",
     "status": "active"
