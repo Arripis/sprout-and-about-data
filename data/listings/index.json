@@ -1062,7 +1062,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/1051156a71c44bcf414449bd97de96f5151955c8/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 10,
+    "quantity": 9,
     "squareItemId": "Y5VDNL6ZW5QR2NBKPSJP72MO",
     "createdAt": "2026-06-10T00:04:42.276Z",
     "status": "active"
@@ -1830,7 +1830,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/3c51b0c50c0baa7760b99c74422dc89970303e61/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 5,
+    "quantity": 3,
     "squareItemId": "MDIR3US22G3U74PVAIFDXFMB",
     "createdAt": "2026-06-13T14:13:27.716Z",
     "status": "active"
@@ -1972,10 +1972,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/2c125da652693b1a07ebe22557a3128ecaeb2846/original.png",
     "category": "Plug Plants",
-    "quantity": 1,
+    "quantity": 0,
     "squareItemId": "ABR5UGTWROLNLQEW4BQXK3PJ",
     "createdAt": "2026-08-23T00:35:25.193Z",
-    "status": "active"
+    "status": "sold"
   },
   {
     "id": "lst_sq6374ebfcdc03ab54",
@@ -2364,7 +2364,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/55e341b854222cf4d8c36586837bcc49837cd082/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 3,
+    "quantity": 2,
     "squareItemId": "JRLDMHNHGV25T2BZDS22W3F2",
     "createdAt": "2026-05-28T17:09:12.943Z",
     "status": "active"
