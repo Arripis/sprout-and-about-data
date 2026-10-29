@@ -122,6 +122,7 @@ export function buildSquareListings({
   soldOutStatus = DEFAULT_SOLD_STATUS,
   requireImage = false,
   requireTrackedInventory = false,
+  now = new Date().toISOString(),
 }) {
   const imageUrlById = new Map(
     objects
@@ -170,6 +171,11 @@ export function buildSquareListings({
           ? 0
           : undefined;
       const status = tracksInventory && quantity <= 0 ? soldOutStatus : 'active';
+      // The shop stops offering long-sold listings to search engines, so keep the time the
+      // listing first sold out; it is cleared as soon as stock returns.
+      const soldAt = status === soldOutStatus
+        ? (existing?.status === soldOutStatus && existing.soldAt) || now
+        : undefined;
       const id = existing?.id && VALID_LISTING_ID.test(existing.id)
         ? existing.id
         : stableListingId(variation.id);
@@ -184,6 +190,7 @@ export function buildSquareListings({
         seller: String(seller).trim().slice(0, 64) || DEFAULT_SELLER,
         createdAt: existing?.createdAt || item.updated_at || new Date().toISOString(),
         status,
+        ...(soldAt ? { soldAt } : {}),
         ...(category ? { category } : {}),
         ...(tracksInventory ? { quantity } : {}),
         squareId: variation.id,
@@ -298,6 +305,7 @@ export function buildListingIndex(listings) {
       ...(listing.squareItemId ? { squareItemId: listing.squareItemId } : {}),
       createdAt: listing.createdAt,
       status: listing.status,
+      ...(listing.soldAt ? { soldAt: listing.soldAt } : {}),
     }))
     .sort((a, b) => {
       const byTitle = a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });

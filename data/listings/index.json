@@ -9,7 +9,8 @@
     "quantity": 0,
     "squareItemId": "LGXXG72H7AFHVQ7TR2IBP34U",
     "createdAt": "2026-04-26T18:26:43.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq22223b84ad3ea7b2",
@@ -21,7 +22,8 @@
     "quantity": 0,
     "squareItemId": "25W4BFYMQU22ZXHFWTUH6ABY",
     "createdAt": "2026-04-26T18:26:41.707Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq3cd9c6b062f05dde",
@@ -33,7 +35,8 @@
     "quantity": 0,
     "squareItemId": "QHLDM437W2FA4JU34PB4VOKF",
     "createdAt": "2026-04-26T18:26:41.707Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqa44e78bb00367473",
@@ -45,7 +48,8 @@
     "quantity": 0,
     "squareItemId": "DVTXTGF2YUPI25FTI5TJO4RZ",
     "createdAt": "2026-04-26T18:26:48.501Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq51e00d9d1adb9df3",
@@ -57,7 +61,8 @@
     "quantity": 0,
     "squareItemId": "4QC4FNL56MAJDY7OC6L26V7D",
     "createdAt": "2026-04-26T18:26:41.707Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqede8fc2cb9cb0868",
@@ -69,7 +74,8 @@
     "quantity": 0,
     "squareItemId": "53YKV7JKJSG6EFH5JSEMKVAQ",
     "createdAt": "2026-04-26T18:26:39.523Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqcae0c095e49a22a7",
@@ -81,7 +87,8 @@
     "quantity": 0,
     "squareItemId": "FL4XGWJWWJPCWQTFBXFYHVSK",
     "createdAt": "2026-04-26T18:26:41.707Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq9cff8fcb197f2010",
@@ -93,7 +100,8 @@
     "quantity": 0,
     "squareItemId": "RXIEJ252AS5ZN2JJBZDG6VT5",
     "createdAt": "2026-04-26T18:26:39.523Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq928cf19a08c83c24",
@@ -105,7 +113,8 @@
     "quantity": 0,
     "squareItemId": "6FJS4H5HXQYDYPZ6QYDS4ODJ",
     "createdAt": "2026-04-26T18:26:38.131Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqb9a3e00209eca86c",
@@ -117,7 +126,8 @@
     "quantity": 0,
     "squareItemId": "QWAGKLYNWDW777XWTVVAQB3H",
     "createdAt": "2026-04-26T18:26:39.523Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq93c333c22e64fe42",
@@ -129,7 +139,8 @@
     "quantity": 0,
     "squareItemId": "YZ2YNXJTJPFD5XBFY2S7B42B",
     "createdAt": "2026-04-26T18:26:43.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqb740b9996c001daa",
@@ -141,7 +152,8 @@
     "quantity": 0,
     "squareItemId": "A667JWKI2WWQHKPWCO3ZQGA4",
     "createdAt": "2026-04-26T18:26:43.757Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbffa62fc05205ca7",
@@ -153,7 +165,8 @@
     "quantity": 0,
     "squareItemId": "7PY43BWRYSLIK76T7YYILM62",
     "createdAt": "2026-04-26T18:26:43.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqef9119259b29f2fd",
@@ -165,7 +178,8 @@
     "quantity": 0,
     "squareItemId": "VWEAM5AFXELRZVI7JUF6HHBD",
     "createdAt": "2026-04-26T18:26:43.757Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq503bd04fb6940875",
@@ -177,7 +191,8 @@
     "quantity": 0,
     "squareItemId": "K2WUNGBPTL77AL4DS63Y7YSN",
     "createdAt": "2026-04-26T18:26:43.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqa7b24c0b587722bf",
@@ -189,7 +204,8 @@
     "quantity": 0,
     "squareItemId": "2VG47FFP53IUYGZQIJG47SKS",
     "createdAt": "2026-04-26T18:26:43.757Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq6225666b969f73d5",
@@ -201,7 +217,8 @@
     "quantity": 0,
     "squareItemId": "PQV36NRKAFOJS6ORLT2MLCMA",
     "createdAt": "2026-06-22T15:16:16.698Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq094e365386ea4b7a",
@@ -213,7 +230,8 @@
     "quantity": 0,
     "squareItemId": "C5F3FF5ZVB6QSFZEK3BWICVF",
     "createdAt": "2026-06-22T15:16:15.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq0b84f65e42753bff",
@@ -225,7 +243,8 @@
     "quantity": 0,
     "squareItemId": "6FPZ2XO5ZXSZCLRUN4QDLGAL",
     "createdAt": "2026-04-26T18:26:42.406Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq26b1fc40e2617eab",
@@ -237,7 +256,8 @@
     "quantity": 0,
     "squareItemId": "DRJNOXLEZLZDC3TF7L33TYOF",
     "createdAt": "2026-04-26T18:26:42.406Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq1c55e8afa8918feb",
@@ -249,7 +269,8 @@
     "quantity": 0,
     "squareItemId": "EBKSTAKUECUEJY6GRTFQPCKT",
     "createdAt": "2026-04-26T18:26:40.268Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqf252f995ddc62a87",
@@ -261,7 +282,8 @@
     "quantity": 0,
     "squareItemId": "TNEJPGNKAAPW7C4UFETJXJ7P",
     "createdAt": "2026-04-26T18:26:40.268Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd0dfea2805f2eb8f",
@@ -273,7 +295,8 @@
     "quantity": 0,
     "squareItemId": "TYFET7X7E37R7MFXZEFEWEX2",
     "createdAt": "2026-04-26T18:26:40.268Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq977053a1040f2313",
@@ -285,7 +308,8 @@
     "quantity": 0,
     "squareItemId": "ZXR54F5WZSTBOFF265JN72LQ",
     "createdAt": "2026-04-26T18:26:54.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqec055b259590c4e7",
@@ -297,7 +321,8 @@
     "quantity": 0,
     "squareItemId": "MJI64WEAJ3OSB4KDRDYV45RL",
     "createdAt": "2026-04-26T18:26:38.814Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq17d7f1e20f5d25f5",
@@ -309,7 +334,8 @@
     "quantity": 0,
     "squareItemId": "BBNGK26ZPMAAEUH7BCPTRDBY",
     "createdAt": "2026-05-12T08:24:33.066Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd91dd5d7dafc9a6f",
@@ -321,7 +347,8 @@
     "quantity": 0,
     "squareItemId": "LVJJ3CSHMM565RHUAOLUJEDO",
     "createdAt": "2026-04-26T18:26:48.501Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqce48846d38f5ad9a",
@@ -333,7 +360,8 @@
     "quantity": 0,
     "squareItemId": "AMMA3ZFYABKHKCJD5V3JC4ED",
     "createdAt": "2026-04-26T18:26:48.501Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq019fac9f73e87f8f",
@@ -345,7 +373,8 @@
     "quantity": 0,
     "squareItemId": "C42DWBAG2FC3EN6N5JFPCRE2",
     "createdAt": "2026-05-18T09:21:37.63Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq5f36cdc4bebd0bfd",
@@ -357,7 +386,8 @@
     "quantity": 0,
     "squareItemId": "OWAJPIJLWRJAYL3ZUXM3E5FE",
     "createdAt": "2026-04-26T18:26:39.523Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd0bd6abcb631a975",
@@ -369,7 +399,8 @@
     "quantity": 0,
     "squareItemId": "CAH3EKMR2MTIEUCJB6RH7O2F",
     "createdAt": "2026-05-22T15:17:27.821Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-09-27T18:54:11.000Z"
   },
   {
     "id": "lst_sq33d183f244089a85",
@@ -381,7 +412,8 @@
     "quantity": 0,
     "squareItemId": "XJBYQ5AFLR56VBYHZUSEHTZ5",
     "createdAt": "2026-04-26T18:26:35.435Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq9d88d6ac593dbfbc",
@@ -393,7 +425,8 @@
     "quantity": 0,
     "squareItemId": "DNGN5ITRWQUXKWPNTBOSSUBY",
     "createdAt": "2026-05-31T12:11:50.39Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq18ed03ca9550b746",
@@ -405,7 +438,8 @@
     "quantity": 0,
     "squareItemId": "IUUHHQ53RFVQLTU4IKNHYYRP",
     "createdAt": "2026-05-31T08:15:23.712Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq56cc8cbd91c33d6c",
@@ -417,7 +451,8 @@
     "quantity": 0,
     "squareItemId": "JCSN7LN7MJS732BZIETBG6RF",
     "createdAt": "2026-06-07T18:40:25.397Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq497b6be81da6665b",
@@ -429,7 +464,8 @@
     "quantity": 0,
     "squareItemId": "BBUH4FA4I2SGJVREGBD7JRXV",
     "createdAt": "2026-07-12T09:03:33.732Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-13T02:12:17.000Z"
   },
   {
     "id": "lst_sqac27cdbd65772fbc",
@@ -441,7 +477,8 @@
     "quantity": 0,
     "squareItemId": "3N3MRZJVXRN5HTWRBQIGKYG2",
     "createdAt": "2026-05-17T15:37:26.932Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-20T06:11:31.000Z"
   },
   {
     "id": "lst_sq634b78109cada0c5",
@@ -453,7 +490,8 @@
     "quantity": 0,
     "squareItemId": "D7LM7OG36YBTJXYFB2FIG4NZ",
     "createdAt": "2026-07-10T10:23:45.475Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq01ef73caa052a067",
@@ -465,7 +503,8 @@
     "quantity": 0,
     "squareItemId": "PDWWCEVNBXUXDBOO5XQQUM3C",
     "createdAt": "2026-04-26T18:26:38.814Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq9f836df6c1b9e1a5",
@@ -477,7 +516,8 @@
     "quantity": 0,
     "squareItemId": "2P2ACRAA45FBZB776DTC7AZP",
     "createdAt": "2026-04-26T18:26:34.108Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq02c41404f3a3f929",
@@ -489,7 +529,8 @@
     "quantity": 0,
     "squareItemId": "PUP2KSRSQ3RUFXFWVF7KESS4",
     "createdAt": "2026-05-31T09:05:03.786Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq41d4bae908595e2c",
@@ -513,7 +554,8 @@
     "quantity": 0,
     "squareItemId": "UUTPF3ETXHI6EDLFC7SRW66J",
     "createdAt": "2026-04-26T18:26:55.489Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqe5ed74e124f2f041",
@@ -525,7 +567,8 @@
     "quantity": 0,
     "squareItemId": "3OHKK2CQ5JDDZNE3AUFDTPC6",
     "createdAt": "2026-06-15T10:32:43.145Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqa12f3dec729c29a6",
@@ -537,7 +580,8 @@
     "quantity": 0,
     "squareItemId": "IJ4AF2XDBP2E2FQCGKQ5APF7",
     "createdAt": "2026-05-20T19:16:47.782Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq047d816027b77257",
@@ -549,7 +593,8 @@
     "quantity": 0,
     "squareItemId": "RZTPXNENMHKICJNIPGNGY3NR",
     "createdAt": "2026-07-05T23:37:01.14Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-13T13:31:41.000Z"
   },
   {
     "id": "lst_sqc28d00d4cdb193cc",
@@ -561,7 +606,8 @@
     "quantity": 0,
     "squareItemId": "6AQHB3Q7WDNHZ6JE2HTRW5K3",
     "createdAt": "2026-06-22T19:22:00.082Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq7934fd5b212aa8ab",
@@ -573,7 +619,8 @@
     "quantity": 0,
     "squareItemId": "VBRSVVS6SCBGMUIPJ3CI6NGJ",
     "createdAt": "2026-04-26T18:26:36.767Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq379315b7e9a6d43f",
@@ -585,7 +632,8 @@
     "quantity": 0,
     "squareItemId": "K55BILTT27PHD4MGMPYZ4YGS",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqf745b07f526d4a5b",
@@ -597,7 +645,8 @@
     "quantity": 0,
     "squareItemId": "EMY4MS7WXQZA7SU6XY3L5OFE",
     "createdAt": "2026-04-26T18:26:47.822Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq6673879602259fb8",
@@ -609,7 +658,8 @@
     "quantity": 0,
     "squareItemId": "U6OMVTKLSEUOPZ73T55F7KOP",
     "createdAt": "2026-04-26T18:26:45.774Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq5d470f019d867e46",
@@ -621,7 +671,8 @@
     "quantity": 0,
     "squareItemId": "INSJUCOFUTZOM6ECFTEGRWE2",
     "createdAt": "2026-06-02T20:46:44.746Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqf467186ca26d0d23",
@@ -633,7 +684,8 @@
     "quantity": 0,
     "squareItemId": "IFA7BGPJYYVANSZNQK4LOQ3Y",
     "createdAt": "2026-04-26T18:26:44.439Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq555d211adc054c82",
@@ -645,7 +697,8 @@
     "quantity": 0,
     "squareItemId": "P4UTGVBXUKGRN2AWHAI6P2M4",
     "createdAt": "2026-04-26T18:26:37.443Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq449d092f4622d055",
@@ -657,7 +710,8 @@
     "quantity": 0,
     "squareItemId": "V7RCEWHTKNURFB5PZ2O55GIP",
     "createdAt": "2026-05-19T09:56:09.548Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq274087c15743d378",
@@ -669,7 +723,8 @@
     "quantity": 0,
     "squareItemId": "T5QAXP4W4YSHOGQMHN7XA7MG",
     "createdAt": "2026-04-26T18:26:51.252Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqc8ead106e0359cc6",
@@ -681,7 +736,8 @@
     "quantity": 0,
     "squareItemId": "3Q23PFABM6I3OQFV624FZLMH",
     "createdAt": "2026-04-26T18:26:50.55Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq8480e6320993d2d9",
@@ -693,7 +749,8 @@
     "quantity": 0,
     "squareItemId": "ZO7QW4VKWWPXNJIJE6BVTRGA",
     "createdAt": "2026-04-26T18:26:51.252Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq3e90dea28d7d5cdc",
@@ -705,7 +762,8 @@
     "quantity": 0,
     "squareItemId": "TRQ7J6D5UZXNJFKE5E3O74LX",
     "createdAt": "2026-10-28T17:43:59.769Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-28T19:15:01.000Z"
   },
   {
     "id": "lst_sq83e665a418730ee0",
@@ -717,7 +775,8 @@
     "quantity": 0,
     "squareItemId": "6UJVEBSDVBXDLPSTTT6ZQP5P",
     "createdAt": "2026-08-03T20:47:16.325Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-08-28T20:36:05.000Z"
   },
   {
     "id": "lst_sq0459ef758b34df7f",
@@ -753,7 +812,8 @@
     "quantity": 0,
     "squareItemId": "6R7DZ65CJ34WKZZND5QSGZII",
     "createdAt": "2026-09-27T15:10:32.177Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-05T23:35:46.000Z"
   },
   {
     "id": "lst_sq80ebe6acebcf64b7",
@@ -765,7 +825,8 @@
     "quantity": 0,
     "squareItemId": "XF6NVXL6OGKACACRC6HSD6Y4",
     "createdAt": "2026-05-28T17:09:05.182Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-14T04:50:33.000Z"
   },
   {
     "id": "lst_sqcfa7d59c22e3522f",
@@ -777,7 +838,8 @@
     "quantity": 0,
     "squareItemId": "N5MHUSWRR6X56GKI5IFGAPSP",
     "createdAt": "2026-04-26T18:26:49.856Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqc85f36af3ef3c173",
@@ -789,7 +851,8 @@
     "quantity": 0,
     "squareItemId": "LWG6EITM5YU5F7Q7RQDVTCIG",
     "createdAt": "2026-07-05T19:21:58.315Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-08T01:29:55.000Z"
   },
   {
     "id": "lst_sqe0ead656b885aa3f",
@@ -801,7 +864,8 @@
     "quantity": 0,
     "squareItemId": "NETUZ4MTQP5RLVK6HCHMQFFO",
     "createdAt": "2026-04-26T18:26:47.137Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq13851c28798821b4",
@@ -813,7 +877,8 @@
     "quantity": 0,
     "squareItemId": "5II6EOF7ZW25Z6TAETTBBLHB",
     "createdAt": "2026-04-26T18:26:47.137Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq521822444d6cf08d",
@@ -825,7 +890,8 @@
     "quantity": 0,
     "squareItemId": "MO5OM5BGPYUTOKASXRQYKUC7",
     "createdAt": "2026-04-26T18:26:32.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq11cd4fa869c75731",
@@ -837,7 +903,8 @@
     "quantity": 0,
     "squareItemId": "3WJ7HPD2M5XAEFCT6XZAMYW4",
     "createdAt": "2026-04-26T18:26:35.435Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq31de5f749e6255a5",
@@ -849,7 +916,8 @@
     "quantity": 0,
     "squareItemId": "WM6FD6KMVUSKPL7IZJPRCNBD",
     "createdAt": "2026-04-26T18:26:33.424Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq00ccf64c34626eff",
@@ -861,7 +929,8 @@
     "quantity": 0,
     "squareItemId": "IMLQKALHCUGIZB7X5NJYS2CP",
     "createdAt": "2026-04-26T18:26:32.033Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq57721debfac933b0",
@@ -873,7 +942,8 @@
     "quantity": 0,
     "squareItemId": "52HOPU6DVZ2RITLWEV6SXJYE",
     "createdAt": "2026-04-26T18:26:34.108Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbe764b20d5daaf63",
@@ -885,7 +955,8 @@
     "quantity": 0,
     "squareItemId": "SF4UXNSCDSPQLUIM7XE54C2V",
     "createdAt": "2026-04-26T18:26:38.131Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq079aa841b83008b2",
@@ -897,7 +968,8 @@
     "quantity": 0,
     "squareItemId": "BSTJ3ALPBJL3EMYZ42E5RCVG",
     "createdAt": "2026-06-22T11:12:32.508Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq0138067911d09fee",
@@ -909,7 +981,8 @@
     "quantity": 0,
     "squareItemId": "WSIBOW4KF3FJMPSK6DKCAVLP",
     "createdAt": "2026-04-26T18:26:56.197Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqce88af5a143a33d4",
@@ -921,7 +994,8 @@
     "quantity": 0,
     "squareItemId": "IYE5D5GL74NU5NXRIK6TKN3R",
     "createdAt": "2026-04-26T18:26:36.767Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq1ff8964a1227ba0e",
@@ -933,7 +1007,8 @@
     "quantity": 0,
     "squareItemId": "2XQ5GJQD4GOYEOPXT7INOE6I",
     "createdAt": "2026-04-26T18:26:38.131Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq90dec87601245861",
@@ -945,7 +1020,8 @@
     "quantity": 0,
     "squareItemId": "X6T7RR7ICBM64DUSPLVCAUGP",
     "createdAt": "2026-10-28T17:44:13.448Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-28T19:15:01.000Z"
   },
   {
     "id": "lst_sq987c7fde8643279c",
@@ -957,7 +1033,8 @@
     "quantity": 0,
     "squareItemId": "SAWTV4B35FF4HU6U53HRJB2L",
     "createdAt": "2026-04-26T18:26:32.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd1479c30f6f90d13",
@@ -969,7 +1046,8 @@
     "quantity": 0,
     "squareItemId": "L4B7OUWLQTHJU7XM2J4JFOC5",
     "createdAt": "2026-04-26T18:26:44.439Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq2db08a54d74ec7b9",
@@ -981,7 +1059,8 @@
     "quantity": 0,
     "squareItemId": "SIXG7XMXCLZKLMRNXV62RYTM",
     "createdAt": "2026-04-26T18:26:36.767Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq3cff5ea7fd928ed2",
@@ -993,7 +1072,8 @@
     "quantity": 0,
     "squareItemId": "F2FKOXPEZ3DDCUVIARYYJJXL",
     "createdAt": "2026-04-26T18:26:34.108Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbf1de5ec3c88348e",
@@ -1005,7 +1085,8 @@
     "quantity": 0,
     "squareItemId": "VMNSFPGCEFRLIZJGHL3PYYTB",
     "createdAt": "2026-06-04T19:07:25.471Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqe2ea253719ef2c9d",
@@ -1017,7 +1098,8 @@
     "quantity": 0,
     "squareItemId": "U4HVM7YYBSPYHAIXLFW6ZHQZ",
     "createdAt": "2026-04-26T18:26:54.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq94fa59ea7fc146b1",
@@ -1029,7 +1111,8 @@
     "quantity": 0,
     "squareItemId": "BYG7OBTH4OSPC4O7CLBB27P7",
     "createdAt": "2026-04-26T18:26:40.984Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqb7f8beb0753f403e",
@@ -1041,7 +1124,8 @@
     "quantity": 0,
     "squareItemId": "56SFTLP36GN6ZLVKMIJP6S7W",
     "createdAt": "2026-05-25T17:03:00.871Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqdc7464a1482df440",
@@ -1053,7 +1137,8 @@
     "quantity": 0,
     "squareItemId": "NE3TLELE3R57VFC3VEAVDKTG",
     "createdAt": "2026-06-29T09:35:51.497Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq5958ba38003c6858",
@@ -1065,7 +1150,8 @@
     "quantity": 0,
     "squareItemId": "YD2KCP7S22RDNJB7VZ2KJGA6",
     "createdAt": "2026-07-08T20:56:18.758Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbafbc917142d30e6",
@@ -1077,7 +1163,8 @@
     "quantity": 0,
     "squareItemId": "72YYP72WC7RYSUC5F7QEIVVJ",
     "createdAt": "2026-07-10T11:57:30.523Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq0163ea751daf294d",
@@ -1089,7 +1176,8 @@
     "quantity": 0,
     "squareItemId": "Y5VDNL6ZW5QR2NBKPSJP72MO",
     "createdAt": "2026-06-10T00:04:42.276Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-19T22:44:58.000Z"
   },
   {
     "id": "lst_sqef56b56e4eba139b",
@@ -1101,7 +1189,8 @@
     "quantity": 0,
     "squareItemId": "22PFQIERQN7MYQL7OW5GP4HF",
     "createdAt": "2026-05-04T18:26:10.253Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqab7745c1e823b8f7",
@@ -1113,7 +1202,8 @@
     "quantity": 0,
     "squareItemId": "BIOTJFZCDC2T2YOUEB3J7S5U",
     "createdAt": "2026-07-05T11:20:25.164Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq750ab1f1a641485c",
@@ -1125,7 +1215,8 @@
     "quantity": 0,
     "squareItemId": "BFRJZSBQ736VOVLBY2ZA6KVI",
     "createdAt": "2026-04-26T18:26:36.767Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq44baa3f1e9ce0538",
@@ -1137,7 +1228,8 @@
     "quantity": 0,
     "squareItemId": "HMTQGENYHFXFMNYUV3SAZP24",
     "createdAt": "2026-06-08T09:01:26.09Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-18T21:44:17.000Z"
   },
   {
     "id": "lst_sq97d49398500a6163",
@@ -1149,7 +1241,8 @@
     "quantity": 0,
     "squareItemId": "LENFHUP67X2GRBHSQFDAUXA4",
     "createdAt": "2026-05-06T19:14:18.699Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq89318eca10ab6e68",
@@ -1161,7 +1254,8 @@
     "quantity": 0,
     "squareItemId": "2CRH5AL2FQELDWB4FYMX262R",
     "createdAt": "2026-04-26T18:26:50.55Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq08477825bfbfa9cf",
@@ -1173,7 +1267,8 @@
     "quantity": 0,
     "squareItemId": "7AHJGH5JAQZDDINSAI75GSXV",
     "createdAt": "2026-04-26T18:26:38.814Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd29b5ae01215bd8f",
@@ -1185,7 +1280,8 @@
     "quantity": 0,
     "squareItemId": "FV7YZ6AGT2UJDME2IJIHXJ3X",
     "createdAt": "2026-04-26T18:26:54.788Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqe77b88b60ef5f060",
@@ -1197,7 +1293,8 @@
     "quantity": 0,
     "squareItemId": "4C2IBIV5IWO7P443I7NT7ACK",
     "createdAt": "2026-04-26T18:26:36.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqcdb7446196f93dc7",
@@ -1209,7 +1306,8 @@
     "quantity": 0,
     "squareItemId": "TAEEM2KQEFZODMBKGNPWXO4O",
     "createdAt": "2026-06-23T15:28:52.246Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq522e2fc3621b836b",
@@ -1221,7 +1319,8 @@
     "quantity": 0,
     "squareItemId": "PQO46TAPQENPJNHG52V274FS",
     "createdAt": "2026-06-19T19:58:32.782Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq5ba39cd6824c3d72",
@@ -1257,7 +1356,8 @@
     "quantity": 0,
     "squareItemId": "OS2WWTQWC67AJUHLB2XOKCQK",
     "createdAt": "2026-06-04T19:07:32.42Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq976295c72cd6b30f",
@@ -1269,7 +1369,8 @@
     "quantity": 0,
     "squareItemId": "5GFOROODCKYYMGQNKBLDXRYV",
     "createdAt": "2026-04-26T18:26:44.439Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq44a8b376c3ed1a85",
@@ -1281,7 +1382,8 @@
     "quantity": 0,
     "squareItemId": "UGHC2KJI6DMUUSHF3IYKUU6A",
     "createdAt": "2026-07-04T16:49:27.473Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-24T12:23:50.000Z"
   },
   {
     "id": "lst_sq7c3701c8eac546ab",
@@ -1305,7 +1407,8 @@
     "quantity": 0,
     "squareItemId": "GVXWJE7G5AT7HCFUILCXEJSY",
     "createdAt": "2026-06-30T15:46:49.256Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqcaba8c57fa983cbe",
@@ -1317,7 +1420,8 @@
     "quantity": 0,
     "squareItemId": "ECUZ4KGL3TWFS3HRCXJZ7SCJ",
     "createdAt": "2026-06-24T16:21:40.79Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqaeb2e19451ef2540",
@@ -1341,7 +1445,8 @@
     "quantity": 0,
     "squareItemId": "VH2LXLM6C6GCB3WT5VZW4YM6",
     "createdAt": "2026-05-27T23:32:10.035Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq94a3eb0879096737",
@@ -1353,7 +1458,8 @@
     "quantity": 0,
     "squareItemId": "FUHYCMPC7OZCOHECCVTOVD2Q",
     "createdAt": "2026-04-26T18:26:35.435Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq20c90055187899d3",
@@ -1365,7 +1471,8 @@
     "quantity": 0,
     "squareItemId": "ZZHAJ7JRQ4RND24C56CAM74K",
     "createdAt": "2026-06-05T16:25:10.441Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq5f9b3b38ad12f347",
@@ -1377,7 +1484,8 @@
     "quantity": 0,
     "squareItemId": "757Z3OVERKH3JOZDXW2PCR2X",
     "createdAt": "2026-05-17T22:12:22.848Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq5fff8b4683b20195",
@@ -1389,7 +1497,8 @@
     "quantity": 0,
     "squareItemId": "IH3MDJCOW4EZWX3PVHUSQHT3",
     "createdAt": "2026-04-26T18:26:52.006Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq6903064a040d3f1c",
@@ -1401,7 +1510,8 @@
     "quantity": 0,
     "squareItemId": "6AJ77RYENF4YQSH3WPUN3TIG",
     "createdAt": "2026-04-26T18:26:52.006Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbb7e6932e4e980bf",
@@ -1413,7 +1523,8 @@
     "quantity": 0,
     "squareItemId": "NIHUUCOCXBWEPO3IRA6VIMHR",
     "createdAt": "2026-04-26T18:26:52.006Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqb648a7130cc8f852",
@@ -1425,7 +1536,8 @@
     "quantity": 0,
     "squareItemId": "Y2DMEALMVQ2LOZWLQXMUOGCC",
     "createdAt": "2026-04-26T18:26:33.424Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd37d0924efcd872b",
@@ -1437,7 +1549,8 @@
     "quantity": 0,
     "squareItemId": "3PPB6KZQML44CDIU2LQ2BA3A",
     "createdAt": "2026-04-26T18:26:56.197Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-21T19:11:09.000Z"
   },
   {
     "id": "lst_sq778db769f1882ef0",
@@ -1449,7 +1562,8 @@
     "quantity": 0,
     "squareItemId": "IGUUJ6WZ5M7FB7T65YOW7MR6",
     "createdAt": "2026-06-04T13:22:21.293Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqe24035db9ae15f2d",
@@ -1461,7 +1575,8 @@
     "quantity": 0,
     "squareItemId": "UFGGMLOBZOWBR7YDR635TEKX",
     "createdAt": "2026-04-26T18:26:36.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq190f5c95f3a6f636",
@@ -1473,7 +1588,8 @@
     "quantity": 0,
     "squareItemId": "3H2CQPKQIEEK3W7KLK4QFRO5",
     "createdAt": "2026-07-08T20:37:31.092Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-14T09:52:10.000Z"
   },
   {
     "id": "lst_sq0f56ab3aca103fc8",
@@ -1485,7 +1601,8 @@
     "quantity": 0,
     "squareItemId": "TMRGXWIHN7XGGFDOWMMHTDU5",
     "createdAt": "2026-07-06T19:19:59.155Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-18T23:47:52.000Z"
   },
   {
     "id": "lst_sq7343f29b36f45716",
@@ -1497,7 +1614,8 @@
     "quantity": 0,
     "squareItemId": "T673N72XHJPK55PNJWGHF2V6",
     "createdAt": "2026-07-02T19:20:14.285Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq17375de62a118082",
@@ -1509,7 +1627,8 @@
     "quantity": 0,
     "squareItemId": "UOGIUXPAEOM7AEJY3DZOB6GU",
     "createdAt": "2026-07-02T19:20:01.536Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-09-29T23:21:36.000Z"
   },
   {
     "id": "lst_sqa73be06745f3546b",
@@ -1521,7 +1640,8 @@
     "quantity": 0,
     "squareItemId": "KITSPKZRGYWTS6NS6E3T6AXD",
     "createdAt": "2026-04-26T18:26:45.774Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq55e9a6cdf0a62607",
@@ -1557,7 +1677,8 @@
     "quantity": 0,
     "squareItemId": "IKJZRGMQGL5OUGX25OCBZZIB",
     "createdAt": "2026-04-26T18:26:36.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq0eda99f43ec94abe",
@@ -1569,7 +1690,8 @@
     "quantity": 0,
     "squareItemId": "IMWPHMNCWMYWNSFINYDQ3TDA",
     "createdAt": "2026-04-26T18:26:32.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqb5b8d4efec76f04c",
@@ -1581,7 +1703,8 @@
     "quantity": 0,
     "squareItemId": "KP64E7D7HVZ2V5KUJBJJZKR4",
     "createdAt": "2026-04-30T16:56:59.988Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq9345f95a264c84a0",
@@ -1593,7 +1716,8 @@
     "quantity": 0,
     "squareItemId": "4KTLZYG2S4P2XJVT7RJMWHOX",
     "createdAt": "2026-04-26T18:26:54.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqb689f8a85f27060f",
@@ -1605,7 +1729,8 @@
     "quantity": 0,
     "squareItemId": "VROQKMNM3RWXUK62JZSTRVTQ",
     "createdAt": "2026-06-19T08:29:08.677Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq44d735f30ee976ea",
@@ -1617,7 +1742,8 @@
     "quantity": 0,
     "squareItemId": "OSCS26VL4ALRR3P2LQXW3SFJ",
     "createdAt": "2026-04-26T18:26:37.443Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqdd35d89d09bac0ce",
@@ -1785,7 +1911,8 @@
     "quantity": 0,
     "squareItemId": "ANBIPCT5S6ZXSRRSAOSZB6NN",
     "createdAt": "2026-04-26T18:26:54.788Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqc0aed290b4a37953",
@@ -1797,7 +1924,8 @@
     "quantity": 0,
     "squareItemId": "EUCHGJYDSPC4GKM6M56FISXE",
     "createdAt": "2026-04-26T18:26:36.095Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq780b6f572f9d5df3",
@@ -1833,7 +1961,8 @@
     "quantity": 0,
     "squareItemId": "GU3QLBN66YS3KDV5MWVIKGAC",
     "createdAt": "2026-04-26T18:26:43.757Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-25T14:57:53.000Z"
   },
   {
     "id": "lst_sq1a67a84893ddffba",
@@ -1845,7 +1974,8 @@
     "quantity": 0,
     "squareItemId": "JL27RKLTNEMQSMQZUANKTQ45",
     "createdAt": "2026-04-26T18:26:32.033Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd68a728446e5da24",
@@ -1857,7 +1987,8 @@
     "quantity": 0,
     "squareItemId": "MDIR3US22G3U74PVAIFDXFMB",
     "createdAt": "2026-06-13T14:13:27.716Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-07T16:00:10.000Z"
   },
   {
     "id": "lst_sq04e65dea6c6cd25c",
@@ -1869,7 +2000,8 @@
     "quantity": 0,
     "squareItemId": "A4PB7PBNAAAONVS5QOJAAXAW",
     "createdAt": "2026-04-26T18:26:47.822Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbb1738bb43a7ad11",
@@ -1881,7 +2013,8 @@
     "quantity": 0,
     "squareItemId": "K3G5Y3KRRX76DUTFFKOVAF2K",
     "createdAt": "2026-06-19T17:19:28.933Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbe2906d1ab3fedfe",
@@ -1893,7 +2026,8 @@
     "quantity": 0,
     "squareItemId": "3XO3HMU6PX4BMMF7KALXIJCN",
     "createdAt": "2026-05-26T22:01:51.735Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq154e2c313203eb47",
@@ -1905,7 +2039,8 @@
     "quantity": 0,
     "squareItemId": "RMPSTZY2EFJB6JGGJJBQED4E",
     "createdAt": "2026-07-12T17:42:29.39Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq6e79559613138362",
@@ -1917,7 +2052,8 @@
     "quantity": 0,
     "squareItemId": "QGCVUPSCJZEBQW4Z4UF3F33V",
     "createdAt": "2026-05-05T18:15:51.562Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq0520bc56a092b5d1",
@@ -1929,7 +2065,8 @@
     "quantity": 0,
     "squareItemId": "XZBE7BY7QR7PKGYEJBVPXBTO",
     "createdAt": "2026-04-26T18:26:52.006Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq9c7a5036fad03967",
@@ -1941,7 +2078,8 @@
     "quantity": 0,
     "squareItemId": "3VRABWLQIBSDZBXBF2HFMU4R",
     "createdAt": "2026-05-31T12:11:52.683Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqd3718a87b42644ec",
@@ -1963,7 +2101,8 @@
     "quantity": 0,
     "squareItemId": "WH4LWO4F33VVWL6SQZMICHI4",
     "createdAt": "2026-04-26T18:26:51.252Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqf9a6f263f452d9c7",
@@ -1975,7 +2114,8 @@
     "quantity": 0,
     "squareItemId": "Z2MG55WS4L7KY4KQXTFW2M5Y",
     "createdAt": "2026-04-26T18:26:32.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq84b70646bf716ecc",
@@ -1987,7 +2127,8 @@
     "quantity": 0,
     "squareItemId": "ILFCAB3Y6BN6IESIW2URCFQN",
     "createdAt": "2026-06-29T15:53:58.683Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-15T21:53:39.000Z"
   },
   {
     "id": "lst_sq54daf6e390675ec8",
@@ -1999,7 +2140,8 @@
     "quantity": 0,
     "squareItemId": "ABR5UGTWROLNLQEW4BQXK3PJ",
     "createdAt": "2026-08-23T00:35:25.193Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-09-28T14:51:38.000Z"
   },
   {
     "id": "lst_sq6374ebfcdc03ab54",
@@ -2023,7 +2165,8 @@
     "quantity": 0,
     "squareItemId": "BYF5PXRZ6N7IDVMONXG2VYUT",
     "createdAt": "2026-04-26T18:26:49.172Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-11T23:22:45.000Z"
   },
   {
     "id": "lst_sq5f333e9b02a26126",
@@ -2035,7 +2178,8 @@
     "quantity": 0,
     "squareItemId": "I2IKNFLJ5LCQTBB7JH2ETYXG",
     "createdAt": "2026-06-19T06:48:19.392Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_f464bc",
@@ -2055,7 +2199,8 @@
     "quantity": 0,
     "squareItemId": "NMTQ6V2UI7IDQD35YJSTOLS7",
     "createdAt": "2026-07-04T16:49:29.706Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-08-30T12:29:56.000Z"
   },
   {
     "id": "lst_sq6df25be929ebfdc9",
@@ -2079,7 +2224,8 @@
     "quantity": 0,
     "squareItemId": "OFRHHU4WE2N6U7NG2S6EL24A",
     "createdAt": "2026-06-03T15:24:09.6Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-15T10:43:12.000Z"
   },
   {
     "id": "lst_sqe10e70464c437bfd",
@@ -2091,7 +2237,8 @@
     "quantity": 0,
     "squareItemId": "K2H7THIZGBAJO6F5HDITPEEL",
     "createdAt": "2026-04-26T18:26:40.984Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-20T22:00:37.000Z"
   },
   {
     "id": "lst_sq2c2d2cc0ea223020",
@@ -2103,7 +2250,8 @@
     "quantity": 0,
     "squareItemId": "APZ2W3DR6QLF73HPO2IX3VZP",
     "createdAt": "2026-04-26T18:26:34.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq2ff610793cd773bb",
@@ -2115,7 +2263,8 @@
     "quantity": 0,
     "squareItemId": "LCVZYU2SSWK3J2PCKWELAQ65",
     "createdAt": "2026-04-26T18:26:38.131Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq1bcecbd67af885a7",
@@ -2127,7 +2276,8 @@
     "quantity": 0,
     "squareItemId": "E2ITHI4HLFZKI4KMN2PAHXRT",
     "createdAt": "2026-05-28T05:26:21.724Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq8ac6cd646b8575c0",
@@ -2175,7 +2325,8 @@
     "quantity": 0,
     "squareItemId": "2YHY4CIITCTAEUKBVKWFIYIZ",
     "createdAt": "2026-07-09T13:52:54.213Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-24T16:24:15.000Z"
   },
   {
     "id": "lst_sqb6744da103881a0f",
@@ -2187,7 +2338,8 @@
     "quantity": 0,
     "squareItemId": "3MWGEXL5KU6GNEANMDEOVIDW",
     "createdAt": "2026-04-26T18:26:44.439Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqea0cbdb374730071",
@@ -2199,7 +2351,8 @@
     "quantity": 0,
     "squareItemId": "JW7IYGUXGTF6RMC6ODIAM5AG",
     "createdAt": "2026-04-26T18:26:34.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq24dd67c59c6115c8",
@@ -2211,7 +2364,8 @@
     "quantity": 0,
     "squareItemId": "GRJBCEKRZI6QQ63ZQJEYYNK7",
     "createdAt": "2026-04-26T18:26:40.984Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq07dd37c4f9acdde2",
@@ -2223,7 +2377,8 @@
     "quantity": 0,
     "squareItemId": "5LPFXXL42YM3RC5XSSHHNWVN",
     "createdAt": "2026-04-26T18:26:32.033Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq4c5b67d2c015828f",
@@ -2235,7 +2390,8 @@
     "quantity": 0,
     "squareItemId": "FXKRNTQWB2ECS7QER23K4VH3",
     "createdAt": "2026-04-26T18:26:40.268Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq9fe84ab7fc341151",
@@ -2247,7 +2403,8 @@
     "quantity": 0,
     "squareItemId": "2KFM7JLHFBFONPDWK24D74SJ",
     "createdAt": "2026-06-27T01:34:21.402Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq518e432dfc38323c",
@@ -2259,7 +2416,8 @@
     "quantity": 0,
     "squareItemId": "6SAXCQYYINAMVYZKTYNR5AJG",
     "createdAt": "2026-07-05T17:02:16.532Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq5d598317d3b72643",
@@ -2271,7 +2429,8 @@
     "quantity": 0,
     "squareItemId": "WYZID33MX3726AKMUXF3FM2C",
     "createdAt": "2026-07-13T14:04:28.914Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-21T08:15:50.000Z"
   },
   {
     "id": "lst_sq661276550c991b38",
@@ -2283,7 +2442,8 @@
     "quantity": 0,
     "squareItemId": "XCGODOM5ETKYWMMVUEHODIG4",
     "createdAt": "2026-05-29T15:02:30.212Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq392e693f09170a52",
@@ -2295,7 +2455,8 @@
     "quantity": 0,
     "squareItemId": "DPLP4PB3W2TICRFU4YYF3EKK",
     "createdAt": "2026-05-02T15:22:54.601Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqfdd9e34fc3ddca1e",
@@ -2307,7 +2468,8 @@
     "quantity": 0,
     "squareItemId": "EUIIO5IZRGKABQIXIVVPZHYC",
     "createdAt": "2026-04-26T18:26:53.421Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqc477b72f855ba233",
@@ -2319,7 +2481,8 @@
     "quantity": 0,
     "squareItemId": "D5P5BLGVM76QCDNGXHM5RR65",
     "createdAt": "2026-05-18T09:21:55.48Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqfbda2245305d00f8",
@@ -2331,7 +2494,8 @@
     "quantity": 0,
     "squareItemId": "JNOKOKYVDK4AMK6TNSNXKVF5",
     "createdAt": "2026-05-04T08:54:18.985Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq0a36a226d07e9931",
@@ -2355,7 +2519,8 @@
     "quantity": 0,
     "squareItemId": "7HOIOKIWHJUBP4DQSWURT3WA",
     "createdAt": "2026-04-26T18:26:47.822Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq87a94e50d8640a04",
@@ -2367,7 +2532,8 @@
     "quantity": 0,
     "squareItemId": "GL25NJQ5CDH2SVCR74OVEXCU",
     "createdAt": "2026-04-26T18:26:49.172Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq00d6e4a5376d7003",
@@ -2379,7 +2545,8 @@
     "quantity": 0,
     "squareItemId": "QYSBEPUGTPDXUZB2USWB6ZNR",
     "createdAt": "2026-08-03T20:47:18.595Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-09-13T20:08:08.000Z"
   },
   {
     "id": "lst_sq3c3daf5e1fdae5a8",
@@ -2391,7 +2558,8 @@
     "quantity": 0,
     "squareItemId": "JRLDMHNHGV25T2BZDS22W3F2",
     "createdAt": "2026-05-28T17:09:12.943Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-09-28T21:00:42.000Z"
   },
   {
     "id": "lst_sq7a26b37a91d1dcb0",
@@ -2403,7 +2571,8 @@
     "quantity": 0,
     "squareItemId": "QVYXH7TQA43JBGPJS527EYDP",
     "createdAt": "2026-04-26T18:26:46.448Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq586197cc26d43b07",
@@ -2415,7 +2584,8 @@
     "quantity": 0,
     "squareItemId": "2REWWXK444O253MMUYQDT3O3",
     "createdAt": "2026-06-30T07:30:54.725Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqe85c19e5f431f1c8",
@@ -2439,7 +2609,8 @@
     "quantity": 0,
     "squareItemId": "QHR4IXUCJJCZLUOCNV5LH6NU",
     "createdAt": "2026-04-26T18:26:49.856Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-14T09:52:10.000Z"
   },
   {
     "id": "lst_e2fbe7",
@@ -2459,7 +2630,8 @@
     "quantity": 0,
     "squareItemId": "MMCWQ3BOY3U2EDHSTDDLNW3K",
     "createdAt": "2026-05-24T09:28:02.698Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqe039867e0f080b82",
@@ -2471,7 +2643,8 @@
     "quantity": 0,
     "squareItemId": "INHUVJG3NLUFQNS3AHL2H6CX",
     "createdAt": "2026-07-12T17:43:33.385Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq602d633ff6ce2821",
@@ -2483,7 +2656,8 @@
     "quantity": 0,
     "squareItemId": "K3MREWU353ES5A6PJ22YSJRS",
     "createdAt": "2026-04-26T18:26:52.714Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:44:11.000Z"
   },
   {
     "id": "lst_sq60fb07d95fe276c2",
@@ -2495,7 +2669,8 @@
     "quantity": 0,
     "squareItemId": "CPCA3M2E5THHLCFPF3NQT3SX",
     "createdAt": "2026-04-26T18:26:53.421Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqbf8730c42090fb3f",
@@ -2507,7 +2682,8 @@
     "quantity": 0,
     "squareItemId": "MZ65WZQ7RLBE2MWP4JUOYP5X",
     "createdAt": "2026-04-26T18:26:34.744Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq7749c686ca715d30",
@@ -2519,7 +2695,8 @@
     "quantity": 0,
     "squareItemId": "DGGKEVWEZFB5UST7Q65APUEH",
     "createdAt": "2026-04-26T18:26:45.117Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq7ae21653f51b5908",
@@ -2531,7 +2708,8 @@
     "quantity": 0,
     "squareItemId": "ZNSIMQGIMQRZKSXHOXLY76ZV",
     "createdAt": "2026-04-26T18:26:40.984Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq6d3edeb35bf61c49",
@@ -2543,7 +2721,8 @@
     "quantity": 0,
     "squareItemId": "SWUAS7VQDFZPSIR2T72TDHA6",
     "createdAt": "2026-06-02T19:25:16.162Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq18370666d845219b",
@@ -2555,7 +2734,8 @@
     "quantity": 0,
     "squareItemId": "DRK54QHB7JA46KHMHBSPJJGN",
     "createdAt": "2026-04-26T18:26:47.137Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sq9afec5673570d020",
@@ -2567,7 +2747,8 @@
     "quantity": 0,
     "squareItemId": "HIDMINGGFGVHMCE77QY7OGFI",
     "createdAt": "2026-06-30T09:32:17.194Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqb3475b2487528256",
@@ -2579,7 +2760,8 @@
     "quantity": 0,
     "squareItemId": "PR75LVCLPQ4NEH6B6PI2LRSO",
     "createdAt": "2026-06-15T14:36:48.878Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-10-12T20:45:47.000Z"
   },
   {
     "id": "lst_sq2cd9a9eb7bac4b58",
@@ -2591,7 +2773,8 @@
     "quantity": 0,
     "squareItemId": "3PSVARYIMXBVOHSZ47WHSZTS",
     "createdAt": "2026-07-04T09:42:49.842Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
     "id": "lst_sqe74db06a710394f8",
@@ -2603,6 +2786,7 @@
     "quantity": 0,
     "squareItemId": "5654I6SRSIJ4BHRCTIV5INOF",
     "createdAt": "2026-06-08T22:07:47.467Z",
-    "status": "sold"
+    "status": "sold",
+    "soldAt": "2026-07-12T17:43:43.000Z"
   }
 ]
