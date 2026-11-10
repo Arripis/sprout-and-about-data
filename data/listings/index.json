@@ -1042,6 +1042,19 @@
     "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
+    "id": "lst_sq603cf879167c5e4c",
+    "title": "Dark Purple Coleus - 1x Mini Plug Plant - Dramatic Dark Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/28e61232d523058a47313b740d853809f9eb3708/original.png",
+    "category": "Plug Plants",
+    "quantity": 0,
+    "squareItemId": "7SMHKZSPWNPRH2KORI3EAMV7",
+    "createdAt": "2026-11-09T22:32:00.593Z",
+    "status": "sold",
+    "soldAt": "2026-11-10T10:38:26.812Z"
+  },
+  {
     "id": "lst_sq0138067911d09fee",
     "title": "Dealbata Cornflower - 2x Mini Plug Plants -Purple Cornflower - Hardy perennial",
     "priceCents": 699,
@@ -2050,10 +2063,11 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/2caa5bfdd9867cf70a19aab553b762542de7cfef/original.png",
     "category": "Plug Plants",
-    "quantity": 1,
+    "quantity": 0,
     "squareItemId": "IBIH4YG62FZQALLVHR5MB5MY",
     "createdAt": "2026-11-09T22:32:21.738Z",
-    "status": "active"
+    "status": "sold",
+    "soldAt": "2026-11-10T10:38:26.812Z"
   },
   {
     "id": "lst_sqeb245cec7a784d52",
@@ -2261,7 +2275,7 @@
   },
   {
     "id": "lst_sq54daf6e390675ec8",
-    "title": "Sea Cabbage Angel Wings - 1x Mini Plug Plant - Soft Silver Foliage",
+    "title": "Sea Cabbage Senecio Candicans - 1x Mini Plug Plant - Soft Silver Foliage",
     "priceCents": 699,
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/2c125da652693b1a07ebe22557a3128ecaeb2846/original.png",
@@ -2462,10 +2476,11 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/1e0f59ac4937ae56a7bc4f8af39c23e79cb9ec10/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 2,
+    "quantity": 0,
     "squareItemId": "2YHY4CIITCTAEUKBVKWFIYIZ",
     "createdAt": "2026-07-09T13:52:54.213Z",
-    "status": "active"
+    "status": "sold",
+    "soldAt": "2026-11-10T10:38:26.812Z"
   },
   {
     "id": "lst_sqb6744da103881a0f",
@@ -2888,18 +2903,6 @@
     "createdAt": "2026-06-30T09:32:17.194Z",
     "status": "sold",
     "soldAt": "2026-07-12T17:43:43.000Z"
-  },
-  {
-    "id": "lst_sq603cf879167c5e4c",
-    "title": "Wicked Witch Coleus - 1x Mini Plug Plant - Dramatic Dark Foliage",
-    "priceCents": 699,
-    "currency": "gbp",
-    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/28e61232d523058a47313b740d853809f9eb3708/original.png",
-    "category": "Plug Plants",
-    "quantity": 1,
-    "squareItemId": "7SMHKZSPWNPRH2KORI3EAMV7",
-    "createdAt": "2026-11-09T22:32:00.593Z",
-    "status": "active"
   },
   {
     "id": "lst_sq911f65b1e86e86d8",
