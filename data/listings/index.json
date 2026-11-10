@@ -481,6 +481,18 @@
     "soldAt": "2026-07-20T06:11:31.000Z"
   },
   {
+    "id": "lst_sqeca1f6fe5ec00b08",
+    "title": "Beauty of Lyon Coleus - 2x Mini Plug Plants - Vibrant Foliage Colour",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/425b4b5000f34473572338676fa1e7d4b3edc067/original.png",
+    "category": "Plug Plants",
+    "quantity": 2,
+    "squareItemId": "PXKDFMGL346ZS6TTKOF5IJ5R",
+    "createdAt": "2026-11-09T22:30:35.179Z",
+    "status": "active"
+  },
+  {
     "id": "lst_sq634b78109cada0c5",
     "title": "Beth Alpha Cucumber - 2x Mini Plug Plants - Sweet Baby Cucumbers",
     "priceCents": 699,
@@ -597,6 +609,18 @@
     "soldAt": "2026-07-13T13:31:41.000Z"
   },
   {
+    "id": "lst_sq4a8575f8fb532038",
+    "title": "Burgundy Wedding Train Coleus - 2x Mini Plug Plants - Trailing Burgundy Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/f0131e29ceb019108139c6fb07fc5271f280d71a/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "XSC3ALD2CCPDVDTP5LDMXQFK",
+    "createdAt": "2026-11-09T22:33:05.404Z",
+    "status": "active"
+  },
+  {
     "id": "lst_sqc28d00d4cdb193cc",
     "title": "Burpless Cucumber - 2x Mini Plug Plants - Early Variety",
     "priceCents": 699,
@@ -662,6 +686,18 @@
     "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
+    "id": "lst_sq615ec097303d2109",
+    "title": "Campfire Coleus - 1x Mini Plug Plant - Vibrant Orange Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/dfec49478b29c35a3c1b46b367a837031198bb46/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "EGCCZD4R2SM6OAWRYIW4XZPS",
+    "createdAt": "2026-11-09T22:30:15.912Z",
+    "status": "active"
+  },
+  {
     "id": "lst_sq5d470f019d867e46",
     "title": "Cantaloupe De Charentais Melon - 2x Mini Plug Plants - Heavy Cropping Sweet",
     "priceCents": 699,
@@ -688,6 +724,18 @@
     "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
+    "id": "lst_sqf19168ea08219055",
+    "title": "China Rose Coleus - 2x Mini Plug Plants - Vibrant Ornamental Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/5778ad96f3d5278aefddb64c3d1ee619b42495fc/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "TNLDRALPWPMBRAU7NSTOVI72",
+    "createdAt": "2026-11-09T22:30:59.456Z",
+    "status": "active"
+  },
+  {
     "id": "lst_sq555d211adc054c82",
     "title": "Chocolate Sunflower - 2x Plug Plants - Interesting Brown/Red Sunflower",
     "priceCents": 699,
@@ -699,6 +747,18 @@
     "createdAt": "2026-04-26T18:26:37.443Z",
     "status": "sold",
     "soldAt": "2026-07-12T17:43:43.000Z"
+  },
+  {
+    "id": "lst_sqd905aa281395884a",
+    "title": "City of Sunderland Coleus - 1x Mini Plug Plant - Vibrant Foliage Plant",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/cc1b66fcb55911ea759407d54574c0fe209bf9e4/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "AMFPUMEPEIE7JLCDOEIFAAOB",
+    "createdAt": "2026-11-09T22:31:45.35Z",
+    "status": "active"
   },
   {
     "id": "lst_sq449d092f4622d055",
@@ -759,11 +819,22 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/3397a99289f57a772d8e96302895e086f4a6c405/original.png",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 2,
     "squareItemId": "TRQ7J6D5UZXNJFKE5E3O74LX",
     "createdAt": "2026-10-28T17:43:59.769Z",
-    "status": "sold",
-    "soldAt": "2026-10-28T19:15:01.000Z"
+    "status": "active"
+  },
+  {
+    "id": "lst_sq64267eb76be000fe",
+    "title": "Coleus Flamingo - 1x Mini Plug Plant - Vibrant Pink Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/49bb3f53506b9f2d0bd0cb7094c4f22abb03a0cd/original.jpeg",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "YFUDKGKLS7BGXOIXSK3WAQWA",
+    "createdAt": "2026-11-09T23:00:57.828Z",
+    "status": "active"
   },
   {
     "id": "lst_sq83e665a418730ee0",
@@ -785,11 +856,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/eeb8ff098a2b45aa0a44561e2b3be8d7d81d6ab1/original.png",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 3,
     "squareItemId": "WT6YD5K2OCORJ67DQ6WLMBJA",
     "createdAt": "2026-05-04T18:44:19.55Z",
-    "status": "sold",
-    "soldAt": "2026-10-30T16:27:04.808Z"
+    "status": "active"
   },
   {
     "id": "lst_sqfd2d1e5553fe2a0a",
@@ -810,11 +880,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/5b309f45cbe3d9ae6d419cd1813bb0687dc0b9a6/original.png",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 2,
     "squareItemId": "6R7DZ65CJ34WKZZND5QSGZII",
     "createdAt": "2026-09-27T15:10:32.177Z",
-    "status": "sold",
-    "soldAt": "2026-10-05T23:35:46.000Z"
+    "status": "active"
   },
   {
     "id": "lst_sq80ebe6acebcf64b7",
@@ -986,6 +1055,18 @@
     "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
+    "id": "lst_sq721593252361b225",
+    "title": "Downtown Miami Magic Coleus - 2x Mini Plug Plants - Vibrant Multi-colour Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/4c0aca6f72ac5fc2335797dca6532a5acd68da9f/original.png",
+    "category": "Plug Plants",
+    "quantity": 6,
+    "squareItemId": "GR6J6YGIQPPJT6DLWRR5FMIB",
+    "createdAt": "2026-11-09T22:29:49.953Z",
+    "status": "active"
+  },
+  {
     "id": "lst_sqce88af5a143a33d4",
     "title": "Dwarf French Bean Slenderette - 2x Plug Plants - Disease Resistant",
     "priceCents": 599,
@@ -1062,6 +1143,18 @@
     "createdAt": "2026-04-26T18:26:36.767Z",
     "status": "sold",
     "soldAt": "2026-07-12T17:43:43.000Z"
+  },
+  {
+    "id": "lst_sq9ccf18e92c817502",
+    "title": "Gibasis Callisto - 2x Mini Plug Plants - Rare Purple Trailing Plant",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/92b4eb1455fcac4b242dacff6ae1d60774b015f6/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "EHREXSBKTLONF2G4SHDXJLHO",
+    "createdAt": "2026-11-09T22:33:40.003Z",
+    "status": "active"
   },
   {
     "id": "lst_sq3cff5ea7fd928ed2",
@@ -1148,11 +1241,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/d21dfd2bc83319882a39e6048db3da7eec54aab2/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 2,
     "squareItemId": "YD2KCP7S22RDNJB7VZ2KJGA6",
     "createdAt": "2026-07-08T20:56:18.758Z",
-    "status": "sold",
-    "soldAt": "2026-07-12T17:43:43.000Z"
+    "status": "active"
   },
   {
     "id": "lst_sqbafbc917142d30e6",
@@ -1168,17 +1260,28 @@
     "soldAt": "2026-07-12T17:43:43.000Z"
   },
   {
+    "id": "lst_sq460f7feee94001b7",
+    "title": "Juliet Quartermain Coleus - 2x Mini Plug Plants - Ruby Mottled Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/2c90890a34c30f2854c92db546e41adb0ac1d857/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "DZIAOZW4DFQYPQLWILGMLYIL",
+    "createdAt": "2026-11-09T22:33:23.144Z",
+    "status": "active"
+  },
+  {
     "id": "lst_sq0163ea751daf294d",
     "title": "Kalanchoe Pinnata - Cathedral Bells - 2x Mini Plug Plants",
     "priceCents": 699,
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/1051156a71c44bcf414449bd97de96f5151955c8/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 2,
     "squareItemId": "Y5VDNL6ZW5QR2NBKPSJP72MO",
     "createdAt": "2026-06-10T00:04:42.276Z",
-    "status": "sold",
-    "soldAt": "2026-10-19T22:44:58.000Z"
+    "status": "active"
   },
   {
     "id": "lst_sqef56b56e4eba139b",
@@ -1330,7 +1433,7 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/74197fe69fcc438d98d4cbd8863cc8877b9313ec/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 1,
+    "quantity": 2,
     "squareItemId": "ZIXM6QHAGBQ5L3JQEZK3KHTJ",
     "createdAt": "2026-06-13T17:58:29.417Z",
     "status": "active"
@@ -1380,11 +1483,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/220f811f1120e1dea5777cdb9a31414efabadb2b/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 1,
     "squareItemId": "UGHC2KJI6DMUUSHF3IYKUU6A",
     "createdAt": "2026-07-04T16:49:27.473Z",
-    "status": "sold",
-    "soldAt": "2026-10-24T12:23:50.000Z"
+    "status": "active"
   },
   {
     "id": "lst_sq7c3701c8eac546ab",
@@ -1942,6 +2044,30 @@
     "status": "hidden"
   },
   {
+    "id": "lst_sq32610114f4de0b22",
+    "title": "Red Head Coleus - 2x Mini Plug Plants - Deep Ruby Red Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/2caa5bfdd9867cf70a19aab553b762542de7cfef/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "IBIH4YG62FZQALLVHR5MB5MY",
+    "createdAt": "2026-11-09T22:32:21.738Z",
+    "status": "active"
+  },
+  {
+    "id": "lst_sqeb245cec7a784d52",
+    "title": "Red Outdoor Coleus - 1x Mini Plug Plant - Indoor/Outdoor Coleus",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/6e15b12647663930ca33554a46adad17c28b81b3/original.jpeg",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "YMO4ONFDAZM5SWI2XV43A6OG",
+    "createdAt": "2026-11-09T23:01:08.402Z",
+    "status": "active"
+  },
+  {
     "id": "lst_sqf8ab03df745456f9",
     "title": "Red Outdoor Coleus - 2x Mini Plug Plants - Indoor/Outdoor Coleus",
     "priceCents": 699,
@@ -2165,11 +2291,22 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/9e04d9920c6645e1934732c3f2b77ceff9fd5e89/original.png",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 5,
     "squareItemId": "BYF5PXRZ6N7IDVMONXG2VYUT",
     "createdAt": "2026-04-26T18:26:49.172Z",
-    "status": "sold",
-    "soldAt": "2026-10-11T23:22:45.000Z"
+    "status": "active"
+  },
+  {
+    "id": "lst_sq4bbe9ff38bee586c",
+    "title": "Solar Flare Coleus - 2x Mini Plug Plants - Vibrant Sun-shade Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/6e771fc430c7e8d2a6c7906f84d887d22e04c68f/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "U5MLSWY3SHZGT6GBM3G4MLVG",
+    "createdAt": "2026-11-09T22:31:22.239Z",
+    "status": "active"
   },
   {
     "id": "lst_sq5f333e9b02a26126",
@@ -2212,11 +2349,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/3cbaa34698e5774373d86309f64eb14b654afa02/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 2,
     "squareItemId": "7QGOAKNF6GFBDLWGLP6BXRSF",
     "createdAt": "2026-07-04T16:49:16.757Z",
-    "status": "sold",
-    "soldAt": "2026-11-05T19:21:12.751Z"
+    "status": "active"
   },
   {
     "id": "lst_sq498e2fcc20bfe5c0",
@@ -2326,11 +2462,10 @@
     "currency": "gbp",
     "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/1e0f59ac4937ae56a7bc4f8af39c23e79cb9ec10/original.jpeg",
     "category": "Plug Plants",
-    "quantity": 0,
+    "quantity": 2,
     "squareItemId": "2YHY4CIITCTAEUKBVKWFIYIZ",
     "createdAt": "2026-07-09T13:52:54.213Z",
-    "status": "sold",
-    "soldAt": "2026-10-24T16:24:15.000Z"
+    "status": "active"
   },
   {
     "id": "lst_sqb6744da103881a0f",
@@ -2753,6 +2888,30 @@
     "createdAt": "2026-06-30T09:32:17.194Z",
     "status": "sold",
     "soldAt": "2026-07-12T17:43:43.000Z"
+  },
+  {
+    "id": "lst_sq603cf879167c5e4c",
+    "title": "Wicked Witch Coleus - 1x Mini Plug Plant - Dramatic Dark Foliage",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/28e61232d523058a47313b740d853809f9eb3708/original.png",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "7SMHKZSPWNPRH2KORI3EAMV7",
+    "createdAt": "2026-11-09T22:32:00.593Z",
+    "status": "active"
+  },
+  {
+    "id": "lst_sq911f65b1e86e86d8",
+    "title": "Wizard Mosaic Coleus - 1x Mini Plug Plant - Interesting Coleus",
+    "priceCents": 699,
+    "currency": "gbp",
+    "image": "https://items-images-production.s3.us-west-2.amazonaws.com/files/c23e9159c0bed4dc2dd40e25722a0a389018fc3f/original.jpeg",
+    "category": "Plug Plants",
+    "quantity": 1,
+    "squareItemId": "CONZG6FGYQFIZSNXE2HNS2GF",
+    "createdAt": "2026-11-09T23:01:17.898Z",
+    "status": "active"
   },
   {
     "id": "lst_sqb3475b2487528256",
