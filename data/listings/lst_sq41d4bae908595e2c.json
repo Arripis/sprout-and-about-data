@@ -10,9 +10,10 @@
   ],
   "seller": "Sprout & About",
   "createdAt": "2026-05-29T04:25:09.427Z",
-  "status": "active",
+  "status": "sold",
+  "soldAt": "2026-11-19T00:55:09.378Z",
   "category": "Plug Plants",
-  "quantity": 1,
+  "quantity": 0,
   "squareId": "XNMAO6B34ZLKLIUNALLTZGJF",
   "squareItemId": "A76YZSMQD3NH7E5WSGHQZQZ3"
 }
